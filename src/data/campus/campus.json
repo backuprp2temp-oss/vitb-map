@@ -1,0 +1,28 @@
+{
+  "name": "VIT Bhopal University",
+  "shortName": "VIT Bhopal",
+  "center": {
+    "lat": 23.075509,
+    "lon": 76.849778
+  },
+  "campusBbox": {
+    "south": 23.0695,
+    "west": 76.8475,
+    "north": 23.08,
+    "east": 76.864
+  },
+  "attribution": [
+    {
+      "label": "© OpenStreetMap contributors",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    {
+      "label": "VIT Bhopal official site",
+      "url": "https://vitbhopal.ac.in"
+    }
+  ],
+  "heightAssumption": "3.2 m per building level (documented estimate)",
+  "walkingSpeedMps": 1.4,
+  "importedAt": "2026-10-09T15:43:03.358Z",
+  "source": "OpenStreetMap via Overpass API + manual curation (data/manual-overrides.json)"
+}

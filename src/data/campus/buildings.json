@@ -1,0 +1,1869 @@
+[
+ {
+  "id": "osm-way-1120857899",
+  "osmType": "way",
+  "osmId": 1120857899,
+  "name": "Lab Complex",
+  "category": "academic",
+  "subcategory": "laboratory",
+  "polygon": [
+   [
+    23.0790269,
+    76.8501596
+   ],
+   [
+    23.0790144,
+    76.8499472
+   ],
+   [
+    23.078753,
+    76.8499776
+   ],
+   [
+    23.0787326,
+    76.8497306
+   ],
+   [
+    23.0786075,
+    76.8497389
+   ],
+   [
+    23.0786139,
+    76.8498319
+   ],
+   [
+    23.0785615,
+    76.8498333
+   ],
+   [
+    23.07855,
+    76.8497458
+   ],
+   [
+    23.0784236,
+    76.8497542
+   ],
+   [
+    23.0784377,
+    76.8499832
+   ],
+   [
+    23.0784224,
+    76.8499957
+   ],
+   [
+    23.0782091,
+    76.8500137
+   ],
+   [
+    23.0782055,
+    76.8502326
+   ],
+   [
+    23.0784249,
+    76.8502246
+   ],
+   [
+    23.0784811,
+    76.8502288
+   ],
+   [
+    23.0784926,
+    76.8504675
+   ],
+   [
+    23.0786276,
+    76.8504551
+   ],
+   [
+    23.0787352,
+    76.8504453
+   ],
+   [
+    23.0787325,
+    76.8502389
+   ],
+   [
+    23.07875,
+    76.8501713
+   ],
+   [
+    23.0790269,
+    76.8501596
+   ]
+  ],
+  "levels": null,
+  "estimatedLevels": 3,
+  "heightM": 9.6,
+  "heightSource": "estimated",
+  "aliases": [
+   "lab complex",
+   "labs",
+   "lab",
+   "computer lab",
+   "cse lab",
+   "it lab",
+   "laboratory"
+  ],
+  "sources": [
+   {
+    "label": "OpenStreetMap way 1120857899",
+    "url": "https://www.openstreetmap.org/way/1120857899",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09",
+  "entrance": {
+   "lat": 23.078628,
+   "lon": 76.850455,
+   "verification": "estimated"
+  },
+  "floorsNote": "Floor count not verified. Houses shared laboratories for engineering programmes."
+ },
+ {
+  "id": "osm-way-1120859271",
+  "osmType": "way",
+  "osmId": 1120859271,
+  "name": "Multi-purpose Hall",
+  "category": "event",
+  "subcategory": "hall",
+  "polygon": [
+   [
+    23.0765435,
+    76.8495474
+   ],
+   [
+    23.0765513,
+    76.8500291
+   ],
+   [
+    23.0763597,
+    76.8500501
+   ],
+   [
+    23.0763442,
+    76.8497893
+   ],
+   [
+    23.0761105,
+    76.8497888
+   ],
+   [
+    23.0761124,
+    76.8500454
+   ],
+   [
+    23.0760579,
+    76.8500499
+   ],
+   [
+    23.0758817,
+    76.8500644
+   ],
+   [
+    23.0758701,
+    76.8495915
+   ],
+   [
+    23.0765435,
+    76.8495474
+   ]
+  ],
+  "levels": null,
+  "estimatedLevels": 3,
+  "heightM": 9.6,
+  "heightSource": "estimated",
+  "aliases": [
+   "mph",
+   "multipurpose hall",
+   "multi purpose hall",
+   "auditorium"
+  ],
+  "sources": [
+   {
+    "label": "OpenStreetMap way 1120859271",
+    "url": "https://www.openstreetmap.org/way/1120859271",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09",
+  "entrance": {
+   "lat": 23.076058,
+   "lon": 76.85005,
+   "verification": "estimated"
+  }
+ },
+ {
+  "id": "osm-way-1120859272",
+  "osmType": "way",
+  "osmId": 1120859272,
+  "name": "Unnamed building",
+  "category": "other",
+  "subcategory": null,
+  "polygon": [
+   [
+    23.0754875,
+    76.8520735
+   ],
+   [
+    23.0755986,
+    76.8528423
+   ],
+   [
+    23.075476,
+    76.8528673
+   ],
+   [
+    23.0754658,
+    76.8528104
+   ],
+   [
+    23.0754351,
+    76.8528173
+   ],
+   [
+    23.0754492,
+    76.8528742
+   ],
+   [
+    23.0753126,
+    76.8529061
+   ],
+   [
+    23.0753035,
+    76.8528385
+   ],
+   [
+    23.0752755,
+    76.8528437
+   ],
+   [
+    23.0752889,
+    76.8529154
+   ],
+   [
+    23.0751634,
+    76.8529368
+   ],
+   [
+    23.0750483,
+    76.8521789
+   ],
+   [
+    23.0751228,
+    76.8521623
+   ],
+   [
+    23.0751312,
+    76.8522025
+   ],
+   [
+    23.0751888,
+    76.8521892
+   ],
+   [
+    23.0751836,
+    76.8521165
+   ],
+   [
+    23.0753368,
+    76.8520887
+   ],
+   [
+    23.075355,
+    76.852197
+   ],
+   [
+    23.0753841,
+    76.8521914
+   ],
+   [
+    23.0753675,
+    76.8520915
+   ],
+   [
+    23.0754875,
+    76.8520735
+   ]
+  ],
+  "levels": null,
+  "estimatedLevels": 2,
+  "heightM": 6.4,
+  "heightSource": "estimated",
+  "aliases": [],
+  "sources": [
+   {
+    "label": "OpenStreetMap way 1120859272",
+    "url": "https://www.openstreetmap.org/way/1120859272",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09",
+  "entrance": {
+   "lat": 23.075048,
+   "lon": 76.852179,
+   "verification": "estimated"
+  }
+ },
+ {
+  "id": "osm-way-1239584001",
+  "osmType": "way",
+  "osmId": 1239584001,
+  "name": "Faculty House",
+  "category": "residence",
+  "subcategory": "faculty-housing",
+  "polygon": [
+   [
+    23.0719541,
+    76.8620285
+   ],
+   [
+    23.0719978,
+    76.8624779
+   ],
+   [
+    23.0703876,
+    76.8626351
+   ],
+   [
+    23.0703473,
+    76.8621893
+   ],
+   [
+    23.0719541,
+    76.8620285
+   ]
+  ],
+  "levels": 2,
+  "estimatedLevels": null,
+  "heightM": 6.4,
+  "heightSource": "osm:building:levels",
+  "aliases": [
+   "faculty house",
+   "faculty quarters",
+   "staff quarters"
+  ],
+  "sources": [
+   {
+    "label": "OpenStreetMap way 1239584001",
+    "url": "https://www.openstreetmap.org/way/1239584001",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09",
+  "entrance": {
+   "lat": 23.071998,
+   "lon": 76.862478,
+   "verification": "estimated"
+  },
+  "floors": [
+   {
+    "level": 0
+   },
+   {
+    "level": 1
+   }
+  ]
+ },
+ {
+  "id": "osm-way-1367916184",
+  "osmType": "way",
+  "osmId": 1367916184,
+  "name": "Package Collection Area",
+  "category": "service",
+  "subcategory": "parcel",
+  "polygon": [
+   [
+    23.0747283,
+    76.849943
+   ],
+   [
+    23.0747546,
+    76.8501529
+   ],
+   [
+    23.0745117,
+    76.850172
+   ],
+   [
+    23.0744766,
+    76.8500225
+   ],
+   [
+    23.0747283,
+    76.849943
+   ]
+  ],
+  "levels": 1,
+  "estimatedLevels": null,
+  "heightM": 3.2,
+  "heightSource": "osm:building:levels",
+  "aliases": [
+   "package collection",
+   "parcel",
+   "courier",
+   "package point",
+   "delivery"
+  ],
+  "sources": [
+   {
+    "label": "OpenStreetMap way 1367916184",
+    "url": "https://www.openstreetmap.org/way/1367916184",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09",
+  "entrance": {
+   "lat": 23.074755,
+   "lon": 76.850153,
+   "verification": "estimated"
+  }
+ },
+ {
+  "id": "osm-way-1367916185",
+  "osmType": "way",
+  "osmId": 1367916185,
+  "name": "Boys Hostel Block A",
+  "category": "hostel",
+  "subcategory": "boys-hostel",
+  "polygon": [
+   [
+    23.0756178,
+    76.8530222
+   ],
+   [
+    23.0754334,
+    76.8530508
+   ],
+   [
+    23.07517,
+    76.8530731
+   ],
+   [
+    23.0752139,
+    76.8534198
+   ],
+   [
+    23.0752549,
+    76.8538874
+   ],
+   [
+    23.0752929,
+    76.8543328
+   ],
+   [
+    23.0752959,
+    76.8545682
+   ],
+   [
+    23.07553,
+    76.8545364
+   ],
+   [
+    23.0758051,
+    76.8544791
+   ],
+   [
+    23.0757114,
+    76.8537602
+   ],
+   [
+    23.0756178,
+    76.8530222
+   ]
+  ],
+  "levels": null,
+  "estimatedLevels": 4,
+  "heightM": 12.8,
+  "heightSource": "estimated",
+  "aliases": [
+   "boys hostel a",
+   "hostel a",
+   "bh a",
+   "boys hostel"
+  ],
+  "sources": [
+   {
+    "label": "OpenStreetMap way 1367916185",
+    "url": "https://www.openstreetmap.org/way/1367916185",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09",
+  "entrance": {
+   "lat": 23.075296,
+   "lon": 76.854568,
+   "verification": "estimated"
+  },
+  "floorsNote": "Block name is an estimate - OSM maps this as an unnamed hostel building. Report the correct block name via feedback."
+ },
+ {
+  "id": "osm-way-1367916186",
+  "osmType": "way",
+  "osmId": 1367916186,
+  "name": "Chancellor's Residence",
+  "category": "residence",
+  "subcategory": "official-residence",
+  "polygon": [
+   [
+    23.0749733,
+    76.8511305
+   ],
+   [
+    23.0750123,
+    76.8512555
+   ],
+   [
+    23.0750383,
+    76.8513616
+   ],
+   [
+    23.0750687,
+    76.8514677
+   ],
+   [
+    23.0749993,
+    76.8515078
+   ],
+   [
+    23.0748735,
+    76.8515667
+   ],
+   [
+    23.0748062,
+    76.851562
+   ],
+   [
+    23.0747455,
+    76.8513451
+   ],
+   [
+    23.0747759,
+    76.8513121
+   ],
+   [
+    23.074752,
+    76.8512508
+   ],
+   [
+    23.0748062,
+    76.8512225
+   ],
+   [
+    23.0748106,
+    76.8511942
+   ],
+   [
+    23.0749733,
+    76.8511305
+   ]
+  ],
+  "levels": null,
+  "estimatedLevels": 2,
+  "heightM": 6.4,
+  "heightSource": "estimated",
+  "aliases": [
+   "chancellor residence",
+   "chancellors residence"
+  ],
+  "sources": [
+   {
+    "label": "OpenStreetMap way 1367916186",
+    "url": "https://www.openstreetmap.org/way/1367916186",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09",
+  "entrance": {
+   "lat": 23.074745,
+   "lon": 76.851345,
+   "verification": "estimated"
+  }
+ },
+ {
+  "id": "osm-way-1367916187",
+  "osmType": "way",
+  "osmId": 1367916187,
+  "name": "Architecture Building",
+  "category": "academic",
+  "subcategory": "academic-block",
+  "polygon": [
+   [
+    23.0780079,
+    76.850011
+   ],
+   [
+    23.0781068,
+    76.8503866
+   ],
+   [
+    23.0779798,
+    76.8504292
+   ],
+   [
+    23.0778715,
+    76.8500476
+   ],
+   [
+    23.0780079,
+    76.850011
+   ]
+  ],
+  "levels": 3,
+  "estimatedLevels": null,
+  "heightM": 9.6,
+  "heightSource": "osm:building:levels",
+  "aliases": [
+   "architecture",
+   "archi block",
+   "architecture block",
+   "b arch"
+  ],
+  "sources": [
+   {
+    "label": "OpenStreetMap way 1367916187",
+    "url": "https://www.openstreetmap.org/way/1367916187",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09",
+  "entrance": {
+   "lat": 23.07798,
+   "lon": 76.850429,
+   "verification": "estimated"
+  },
+  "floors": [
+   {
+    "level": 0
+   },
+   {
+    "level": 1
+   },
+   {
+    "level": 2
+   }
+  ],
+  "floorsNote": "3 levels per OSM (building:levels=3)."
+ },
+ {
+  "id": "osm-way-1367916188",
+  "osmType": "way",
+  "osmId": 1367916188,
+  "name": "Underbelly",
+  "category": "food",
+  "subcategory": "restaurant",
+  "polygon": [
+   [
+    23.0775865,
+    76.8505391
+   ],
+   [
+    23.0772743,
+    76.8505974
+   ],
+   [
+    23.0772898,
+    76.8507347
+   ],
+   [
+    23.0775389,
+    76.8506661
+   ],
+   [
+    23.0776083,
+    76.8506498
+   ],
+   [
+    23.0775865,
+    76.8505391
+   ]
+  ],
+  "levels": null,
+  "estimatedLevels": 1,
+  "heightM": 3.2,
+  "heightSource": "estimated",
+  "aliases": [
+   "underbelly",
+   "ub",
+   "lab complex restaurant"
+  ],
+  "sources": [
+   {
+    "label": "OpenStreetMap way 1367916188",
+    "url": "https://www.openstreetmap.org/way/1367916188",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09",
+  "entrance": {
+   "lat": 23.077608,
+   "lon": 76.85065,
+   "verification": "estimated"
+  }
+ },
+ {
+  "id": "osm-way-1367916189",
+  "osmType": "way",
+  "osmId": 1367916189,
+  "name": "Mayuri (Lab Complex)",
+  "category": "food",
+  "subcategory": "restaurant",
+  "polygon": [
+   [
+    23.0772666,
+    76.8505963
+   ],
+   [
+    23.0772846,
+    76.8507332
+   ],
+   [
+    23.0772458,
+    76.8507497
+   ],
+   [
+    23.0772085,
+    76.8507633
+   ],
+   [
+    23.0771531,
+    76.8507558
+   ],
+   [
+    23.077118,
+    76.8507092
+   ],
+   [
+    23.0771017,
+    76.8506274
+   ],
+   [
+    23.0772666,
+    76.8505963
+   ]
+  ],
+  "levels": null,
+  "estimatedLevels": 1,
+  "heightM": 3.2,
+  "heightSource": "estimated",
+  "aliases": [
+   "mayuri lab",
+   "mayuri"
+  ],
+  "sources": [
+   {
+    "label": "OpenStreetMap way 1367916189",
+    "url": "https://www.openstreetmap.org/way/1367916189",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09",
+  "entrance": {
+   "lat": 23.077209,
+   "lon": 76.850763,
+   "verification": "estimated"
+  }
+ },
+ {
+  "id": "osm-way-1367916190",
+  "osmType": "way",
+  "osmId": 1367916190,
+  "name": "Academic Block 2 (AB2)",
+  "category": "academic",
+  "subcategory": "academic-block",
+  "polygon": [
+   [
+    23.0740212,
+    76.8550843
+   ],
+   [
+    23.0739858,
+    76.8555728
+   ],
+   [
+    23.0739499,
+    76.8560924
+   ],
+   [
+    23.0739115,
+    76.8563369
+   ],
+   [
+    23.0737529,
+    76.856334
+   ],
+   [
+    23.0731281,
+    76.8563007
+   ],
+   [
+    23.0731349,
+    76.856169
+   ],
+   [
+    23.0731412,
+    76.8556948
+   ],
+   [
+    23.0732329,
+    76.8550479
+   ],
+   [
+    23.0740212,
+    76.8550843
+   ]
+  ],
+  "levels": null,
+  "estimatedLevels": 3,
+  "heightM": 9.6,
+  "heightSource": "estimated",
+  "aliases": [
+   "academic block 2",
+   "ab2",
+   "ab-2",
+   "ab two"
+  ],
+  "sources": [
+   {
+    "label": "OpenStreetMap way 1367916190",
+    "url": "https://www.openstreetmap.org/way/1367916190",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09",
+  "entrance": {
+   "lat": 23.073135,
+   "lon": 76.856169,
+   "verification": "estimated"
+  },
+  "commonName": "AB2",
+  "floorsNote": "Floor count not verified. Floor-wise room directory not yet available."
+ },
+ {
+  "id": "osm-way-1367916191",
+  "osmType": "way",
+  "osmId": 1367916191,
+  "name": "Open Air Auditorium",
+  "category": "event",
+  "subcategory": "auditorium",
+  "polygon": [
+   [
+    23.0745098,
+    76.8508554
+   ],
+   [
+    23.0744182,
+    76.8512696
+   ],
+   [
+    23.0742847,
+    76.8512836
+   ],
+   [
+    23.074177,
+    76.8512609
+   ],
+   [
+    23.0741995,
+    76.8510826
+   ],
+   [
+    23.0742461,
+    76.8508187
+   ],
+   [
+    23.0745098,
+    76.8508554
+   ]
+  ],
+  "levels": null,
+  "estimatedLevels": 3,
+  "heightM": 9.6,
+  "heightSource": "estimated",
+  "aliases": [
+   "open air auditorium",
+   "oaa",
+   "amphitheatre",
+   "amphitheater"
+  ],
+  "sources": [
+   {
+    "label": "OpenStreetMap way 1367916191",
+    "url": "https://www.openstreetmap.org/way/1367916191",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09",
+  "entrance": {
+   "lat": 23.07451,
+   "lon": 76.850855,
+   "verification": "estimated"
+  }
+ },
+ {
+  "id": "osm-way-1369776493",
+  "osmType": "way",
+  "osmId": 1369776493,
+  "name": "Food Court Building (Bistro & AB Dakshin)",
+  "category": "food",
+  "subcategory": "food-court",
+  "polygon": [
+   [
+    23.0726363,
+    76.8570968
+   ],
+   [
+    23.0727767,
+    76.8572113
+   ],
+   [
+    23.0728265,
+    76.857539
+   ],
+   [
+    23.0727211,
+    76.8578634
+   ],
+   [
+    23.0722529,
+    76.8579461
+   ],
+   [
+    23.0720978,
+    76.8576503
+   ],
+   [
+    23.0721739,
+    76.8572336
+   ],
+   [
+    23.0723787,
+    76.8571159
+   ],
+   [
+    23.0726363,
+    76.8570968
+   ]
+  ],
+  "levels": null,
+  "estimatedLevels": 3,
+  "heightM": 9.6,
+  "heightSource": "estimated",
+  "aliases": [
+   "food court",
+   "bistro",
+   "ab dakshin",
+   "dakshin"
+  ],
+  "sources": [
+   {
+    "label": "OpenStreetMap way 1369776493",
+    "url": "https://www.openstreetmap.org/way/1369776493",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09",
+  "entrance": {
+   "lat": 23.072777,
+   "lon": 76.857211,
+   "verification": "estimated"
+  }
+ },
+ {
+  "id": "osm-way-1369776496",
+  "osmType": "way",
+  "osmId": 1369776496,
+  "name": "Boys Hostel Block B",
+  "category": "hostel",
+  "subcategory": "boys-hostel",
+  "polygon": [
+   [
+    23.075702,
+    76.8605207
+   ],
+   [
+    23.0758073,
+    76.8593183
+   ],
+   [
+    23.0750611,
+    76.859242
+   ],
+   [
+    23.0749616,
+    76.8604667
+   ],
+   [
+    23.075702,
+    76.8605207
+   ]
+  ],
+  "levels": null,
+  "estimatedLevels": 3,
+  "heightM": 9.6,
+  "heightSource": "estimated",
+  "aliases": [
+   "boys hostel b",
+   "hostel b",
+   "bh b"
+  ],
+  "sources": [
+   {
+    "label": "OpenStreetMap way 1369776496",
+    "url": "https://www.openstreetmap.org/way/1369776496",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09",
+  "entrance": {
+   "lat": 23.075807,
+   "lon": 76.859318,
+   "verification": "estimated"
+  },
+  "floorsNote": "Block name is an estimate - OSM maps this as an unnamed building beside the mess."
+ },
+ {
+  "id": "osm-way-1369776498",
+  "osmType": "way",
+  "osmId": 1369776498,
+  "name": "Hostel building",
+  "category": "hostel",
+  "subcategory": "hostel",
+  "polygon": [
+   [
+    23.0734825,
+    76.8591046
+   ],
+   [
+    23.0734485,
+    76.8597364
+   ],
+   [
+    23.0731834,
+    76.8597106
+   ],
+   [
+    23.0732174,
+    76.8590972
+   ],
+   [
+    23.0734825,
+    76.8591046
+   ]
+  ],
+  "levels": null,
+  "estimatedLevels": 4,
+  "heightM": 12.8,
+  "heightSource": "estimated",
+  "aliases": [],
+  "sources": [
+   {
+    "label": "OpenStreetMap way 1369776498",
+    "url": "https://www.openstreetmap.org/way/1369776498",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09",
+  "entrance": {
+   "lat": 23.073449,
+   "lon": 76.859736,
+   "verification": "estimated"
+  }
+ },
+ {
+  "id": "osm-way-1369776499",
+  "osmType": "way",
+  "osmId": 1369776499,
+  "name": "Boys Hostel Mess Hall",
+  "category": "food",
+  "subcategory": "mess",
+  "polygon": [
+   [
+    23.0737183,
+    76.8599626
+   ],
+   [
+    23.0736893,
+    76.8604554
+   ],
+   [
+    23.0734433,
+    76.8604467
+   ],
+   [
+    23.0734867,
+    76.8599434
+   ],
+   [
+    23.0737183,
+    76.8599626
+   ]
+  ],
+  "levels": null,
+  "estimatedLevels": 2,
+  "heightM": 6.4,
+  "heightSource": "estimated",
+  "aliases": [
+   "boys hostel mess",
+   "mess",
+   "mayuri mess",
+   "hostel mess",
+   "bhm"
+  ],
+  "sources": [
+   {
+    "label": "OpenStreetMap way 1369776499",
+    "url": "https://www.openstreetmap.org/way/1369776499",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09",
+  "entrance": {
+   "lat": 23.073487,
+   "lon": 76.859943,
+   "verification": "estimated"
+  },
+  "menuId": "boys-hostel-mess"
+ },
+ {
+  "id": "osm-way-1369776500",
+  "osmType": "way",
+  "osmId": 1369776500,
+  "name": "Hostel building",
+  "category": "hostel",
+  "subcategory": "hostel",
+  "polygon": [
+   [
+    23.0731475,
+    76.8597703
+   ],
+   [
+    23.0731169,
+    76.8604083
+   ],
+   [
+    23.0728613,
+    76.8603925
+   ],
+   [
+    23.0728725,
+    76.8597459
+   ],
+   [
+    23.0731475,
+    76.8597703
+   ]
+  ],
+  "levels": null,
+  "estimatedLevels": 4,
+  "heightM": 12.8,
+  "heightSource": "estimated",
+  "aliases": [],
+  "sources": [
+   {
+    "label": "OpenStreetMap way 1369776500",
+    "url": "https://www.openstreetmap.org/way/1369776500",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09",
+  "entrance": {
+   "lat": 23.073148,
+   "lon": 76.85977,
+   "verification": "estimated"
+  }
+ },
+ {
+  "id": "osm-way-1369776501",
+  "osmType": "way",
+  "osmId": 1369776501,
+  "name": "Hostel building",
+  "category": "hostel",
+  "subcategory": "hostel",
+  "polygon": [
+   [
+    23.0733119,
+    76.8584585
+   ],
+   [
+    23.0732817,
+    76.8590391
+   ],
+   [
+    23.0729693,
+    76.8590281
+   ],
+   [
+    23.073002,
+    76.858442
+   ],
+   [
+    23.0733119,
+    76.8584585
+   ]
+  ],
+  "levels": null,
+  "estimatedLevels": 4,
+  "heightM": 12.8,
+  "heightSource": "estimated",
+  "aliases": [],
+  "sources": [
+   {
+    "label": "OpenStreetMap way 1369776501",
+    "url": "https://www.openstreetmap.org/way/1369776501",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09",
+  "entrance": {
+   "lat": 23.073002,
+   "lon": 76.858442,
+   "verification": "estimated"
+  }
+ },
+ {
+  "id": "osm-way-1369776502",
+  "osmType": "way",
+  "osmId": 1369776502,
+  "name": "Hostel building",
+  "category": "hostel",
+  "subcategory": "hostel",
+  "polygon": [
+   [
+    23.0738183,
+    76.8584759
+   ],
+   [
+    23.0737949,
+    76.8590866
+   ],
+   [
+    23.0735228,
+    76.8590739
+   ],
+   [
+    23.0735491,
+    76.8584473
+   ],
+   [
+    23.0738183,
+    76.8584759
+   ]
+  ],
+  "levels": null,
+  "estimatedLevels": 4,
+  "heightM": 12.8,
+  "heightSource": "estimated",
+  "aliases": [],
+  "sources": [
+   {
+    "label": "OpenStreetMap way 1369776502",
+    "url": "https://www.openstreetmap.org/way/1369776502",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09",
+  "entrance": {
+   "lat": 23.073818,
+   "lon": 76.858476,
+   "verification": "estimated"
+  }
+ },
+ {
+  "id": "osm-way-1369776503",
+  "osmType": "way",
+  "osmId": 1369776503,
+  "name": "Unnamed building",
+  "category": "other",
+  "subcategory": null,
+  "polygon": [
+   [
+    23.0737335,
+    76.8592839
+   ],
+   [
+    23.0735315,
+    76.8592711
+   ],
+   [
+    23.0734964,
+    76.8596465
+   ],
+   [
+    23.073713,
+    76.8596624
+   ],
+   [
+    23.0737335,
+    76.8592839
+   ]
+  ],
+  "levels": null,
+  "estimatedLevels": 2,
+  "heightM": 6.4,
+  "heightSource": "estimated",
+  "aliases": [],
+  "sources": [
+   {
+    "label": "OpenStreetMap way 1369776503",
+    "url": "https://www.openstreetmap.org/way/1369776503",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09",
+  "entrance": {
+   "lat": 23.073496,
+   "lon": 76.859646,
+   "verification": "estimated"
+  }
+ },
+ {
+  "id": "osm-way-1369776504",
+  "osmType": "way",
+  "osmId": 1369776504,
+  "name": "Hostel building",
+  "category": "hostel",
+  "subcategory": "hostel",
+  "polygon": [
+   [
+    23.0725699,
+    76.8597544
+   ],
+   [
+    23.0725699,
+    76.859993
+   ],
+   [
+    23.0722773,
+    76.8599898
+   ],
+   [
+    23.0722773,
+    76.8601616
+   ],
+   [
+    23.072567,
+    76.8601584
+   ],
+   [
+    23.072567,
+    76.860362
+   ],
+   [
+    23.0721163,
+    76.8603652
+   ],
+   [
+    23.0721104,
+    76.8597608
+   ],
+   [
+    23.0725699,
+    76.8597544
+   ]
+  ],
+  "levels": null,
+  "estimatedLevels": 4,
+  "heightM": 12.8,
+  "heightSource": "estimated",
+  "aliases": [],
+  "sources": [
+   {
+    "label": "OpenStreetMap way 1369776504",
+    "url": "https://www.openstreetmap.org/way/1369776504",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09",
+  "entrance": {
+   "lat": 23.072116,
+   "lon": 76.860365,
+   "verification": "estimated"
+  }
+ },
+ {
+  "id": "osm-way-1369794827",
+  "osmType": "way",
+  "osmId": 1369794827,
+  "name": "Shop building",
+  "category": "service",
+  "subcategory": null,
+  "polygon": [
+   [
+    23.0775436,
+    76.8509858
+   ],
+   [
+    23.0774745,
+    76.8510264
+   ],
+   [
+    23.0774297,
+    76.8509716
+   ],
+   [
+    23.0775081,
+    76.850929
+   ],
+   [
+    23.0775436,
+    76.8509858
+   ]
+  ],
+  "levels": null,
+  "estimatedLevels": 1,
+  "heightM": 3.2,
+  "heightSource": "estimated",
+  "aliases": [],
+  "sources": [
+   {
+    "label": "OpenStreetMap way 1369794827",
+    "url": "https://www.openstreetmap.org/way/1369794827",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09",
+  "entrance": {
+   "lat": 23.077508,
+   "lon": 76.850929,
+   "verification": "estimated"
+  }
+ },
+ {
+  "id": "osm-way-1422511298",
+  "osmType": "way",
+  "osmId": 1422511298,
+  "name": "Hostel building",
+  "category": "hostel",
+  "subcategory": "hostel",
+  "polygon": [
+   [
+    23.0731724,
+    76.8591034
+   ],
+   [
+    23.0731418,
+    76.8596656
+   ],
+   [
+    23.0728802,
+    76.8596517
+   ],
+   [
+    23.0729069,
+    76.8590873
+   ],
+   [
+    23.0731724,
+    76.8591034
+   ]
+  ],
+  "levels": null,
+  "estimatedLevels": 4,
+  "heightM": 12.8,
+  "heightSource": "estimated",
+  "aliases": [],
+  "sources": [
+   {
+    "label": "OpenStreetMap way 1422511298",
+    "url": "https://www.openstreetmap.org/way/1422511298",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09",
+  "entrance": {
+   "lat": 23.073142,
+   "lon": 76.859666,
+   "verification": "estimated"
+  }
+ },
+ {
+  "id": "osm-way-1424605478",
+  "osmType": "way",
+  "osmId": 1424605478,
+  "name": "Hostel Block 8",
+  "category": "hostel",
+  "subcategory": "hostel-block",
+  "polygon": [
+   [
+    23.0725892,
+    76.8591811
+   ],
+   [
+    23.0721395,
+    76.8591722
+   ],
+   [
+    23.0721297,
+    76.8583624
+   ],
+   [
+    23.0726285,
+    76.8583856
+   ],
+   [
+    23.0726105,
+    76.8587816
+   ],
+   [
+    23.0725892,
+    76.8591811
+   ]
+  ],
+  "levels": null,
+  "estimatedLevels": 2,
+  "heightM": 6.4,
+  "heightSource": "estimated",
+  "aliases": [
+   "block 8",
+   "block8",
+   "bh8"
+  ],
+  "sources": [
+   {
+    "label": "OpenStreetMap way 1424605478",
+    "url": "https://www.openstreetmap.org/way/1424605478",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09",
+  "entrance": {
+   "lat": 23.072629,
+   "lon": 76.858386,
+   "verification": "estimated"
+  }
+ },
+ {
+  "id": "osm-rel-16248225",
+  "osmType": "rel",
+  "osmId": 16248225,
+  "name": "Academic Block 1 (AB1)",
+  "category": "academic",
+  "subcategory": "academic-block",
+  "polygon": [
+   [
+    23.0772439,
+    76.8518589
+   ],
+   [
+    23.0773412,
+    76.8520718
+   ],
+   [
+    23.0773971,
+    76.8520712
+   ],
+   [
+    23.0773964,
+    76.8520279
+   ],
+   [
+    23.0773762,
+    76.8519836
+   ],
+   [
+    23.0774067,
+    76.8519842
+   ],
+   [
+    23.0774126,
+    76.8519485
+   ],
+   [
+    23.0774786,
+    76.8519529
+   ],
+   [
+    23.0774667,
+    76.8521031
+   ],
+   [
+    23.0775602,
+    76.8520864
+   ],
+   [
+    23.0776174,
+    76.8520742
+   ],
+   [
+    23.0776788,
+    76.8520863
+   ],
+   [
+    23.0776977,
+    76.851977
+   ],
+   [
+    23.0776818,
+    76.8519035
+   ],
+   [
+    23.0777008,
+    76.8518974
+   ],
+   [
+    23.0776817,
+    76.8518544
+   ],
+   [
+    23.0777088,
+    76.8518583
+   ],
+   [
+    23.0776925,
+    76.8518175
+   ],
+   [
+    23.0777137,
+    76.8518126
+   ],
+   [
+    23.0777429,
+    76.8518881
+   ],
+   [
+    23.0777715,
+    76.8520001
+   ],
+   [
+    23.077836,
+    76.8519389
+   ],
+   [
+    23.077847,
+    76.8519131
+   ],
+   [
+    23.0778708,
+    76.8519225
+   ],
+   [
+    23.078002,
+    76.8518653
+   ],
+   [
+    23.0781959,
+    76.8517927
+   ],
+   [
+    23.0780186,
+    76.8513538
+   ],
+   [
+    23.0779723,
+    76.8509439
+   ],
+   [
+    23.0779583,
+    76.8508437
+   ],
+   [
+    23.0776456,
+    76.8509413
+   ],
+   [
+    23.0776222,
+    76.850962
+   ],
+   [
+    23.0776119,
+    76.8509477
+   ],
+   [
+    23.0775083,
+    76.8509363
+   ],
+   [
+    23.0775621,
+    76.8510306
+   ],
+   [
+    23.0775533,
+    76.8510433
+   ],
+   [
+    23.0775606,
+    76.8511246
+   ],
+   [
+    23.0775063,
+    76.851139
+   ],
+   [
+    23.0774853,
+    76.851042
+   ],
+   [
+    23.0774105,
+    76.8509602
+   ],
+   [
+    23.0773805,
+    76.8510046
+   ],
+   [
+    23.0773714,
+    76.8510051
+   ],
+   [
+    23.0773171,
+    76.8510162
+   ],
+   [
+    23.077279,
+    76.8510401
+   ],
+   [
+    23.0772379,
+    76.8510704
+   ],
+   [
+    23.0773201,
+    76.8511836
+   ],
+   [
+    23.0772731,
+    76.8512171
+   ],
+   [
+    23.0772467,
+    76.8512266
+   ],
+   [
+    23.0772291,
+    76.8512027
+   ],
+   [
+    23.0772071,
+    76.8512075
+   ],
+   [
+    23.0771983,
+    76.851139
+   ],
+   [
+    23.0771881,
+    76.8511087
+   ],
+   [
+    23.0771661,
+    76.8510848
+   ],
+   [
+    23.0771382,
+    76.8511055
+   ],
+   [
+    23.0771235,
+    76.8510959
+   ],
+   [
+    23.0770575,
+    76.8511481
+   ],
+   [
+    23.0770787,
+    76.8512754
+   ],
+   [
+    23.0770942,
+    76.8512378
+   ],
+   [
+    23.0771925,
+    76.8514929
+   ],
+   [
+    23.0771778,
+    76.8515407
+   ],
+   [
+    23.0771954,
+    76.8516204
+   ],
+   [
+    23.0772335,
+    76.8516411
+   ],
+   [
+    23.0772862,
+    76.8518921
+   ],
+   [
+    23.0772439,
+    76.8518589
+   ]
+  ],
+  "levels": 5,
+  "estimatedLevels": null,
+  "heightM": 16,
+  "heightSource": "osm:building:levels",
+  "aliases": [
+   "academic block 1",
+   "ab1",
+   "ab-1",
+   "ab one",
+   "academic block",
+   "academic block building"
+  ],
+  "sources": [
+   {
+    "label": "OpenStreetMap relation 16248225",
+    "url": "https://www.openstreetmap.org/relation/16248225",
+    "verification": "community"
+   },
+   {
+    "label": "OpenStreetMap node 11148421056 'VITB Academic Block 1'",
+    "url": "https://www.openstreetmap.org/node/11148421056",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09",
+  "entrance": {
+   "lat": 23.077057,
+   "lon": 76.851148,
+   "verification": "estimated"
+  },
+  "commonName": "AB1",
+  "floors": [
+   {
+    "level": 0,
+    "note": "Ground floor - classrooms & block offices"
+   },
+   {
+    "level": 1,
+    "note": "Classrooms"
+   },
+   {
+    "level": 2,
+    "note": "Classrooms"
+   }
+  ],
+  "floorsNote": "5 levels per OSM (building:levels=5). Floor-wise room directory not yet available - admins can add rooms via the admin editor."
+ }
+]

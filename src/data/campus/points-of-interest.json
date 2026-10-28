@@ -1,0 +1,402 @@
+[
+ {
+  "id": "osm-node-11515616398",
+  "osmType": "node",
+  "osmId": 11515616398,
+  "name": "Boys Hostel Mess (Mayuri)",
+  "category": "food",
+  "subcategory": "mess",
+  "lat": 23.0735694,
+  "lon": 76.8601534,
+  "insideBuildingId": "osm-way-1369776499",
+  "menuId": "boys-hostel-mess",
+  "aliases": [
+   "boys hostel mess",
+   "mess",
+   "mayuri mess",
+   "hostel mess",
+   "bhm"
+  ],
+  "verification": "community",
+  "sources": [
+   {
+    "label": "OpenStreetMap node 11515616398",
+    "url": "https://www.openstreetmap.org/node/11515616398",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09"
+ },
+ {
+  "id": "osm-node-11515805454",
+  "osmType": "node",
+  "osmId": 11515805454,
+  "name": "Cricket Practice Net",
+  "category": "sports",
+  "subcategory": "cricket",
+  "lat": 23.0746597,
+  "lon": 76.8599173,
+  "insideBuildingId": null,
+  "menuId": null,
+  "aliases": [],
+  "verification": "community",
+  "sources": [
+   {
+    "label": "OpenStreetMap node 11515805454",
+    "url": "https://www.openstreetmap.org/node/11515805454",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09"
+ },
+ {
+  "id": "osm-node-11515821481",
+  "osmType": "node",
+  "osmId": 11515821481,
+  "name": "Volleyball Court",
+  "category": "sports",
+  "subcategory": "volleyball",
+  "lat": 23.0745342,
+  "lon": 76.8602237,
+  "insideBuildingId": null,
+  "menuId": null,
+  "aliases": [],
+  "verification": "community",
+  "sources": [
+   {
+    "label": "OpenStreetMap node 11515821481",
+    "url": "https://www.openstreetmap.org/node/11515821481",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09"
+ },
+ {
+  "id": "osm-node-12685733586",
+  "osmType": "node",
+  "osmId": 12685733586,
+  "name": "Mayuri Cafe",
+  "category": "food",
+  "subcategory": "cafe",
+  "lat": 23.0727299,
+  "lon": 76.8575962,
+  "insideBuildingId": "osm-way-1369776493",
+  "menuId": "mayuri-cafe",
+  "aliases": [
+   "mayuri",
+   "cafe",
+   "mayuri cafe"
+  ],
+  "verification": "community",
+  "sources": [
+   {
+    "label": "OpenStreetMap node 12685733586",
+    "url": "https://www.openstreetmap.org/node/12685733586",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09"
+ },
+ {
+  "id": "osm-node-12685733587",
+  "osmType": "node",
+  "osmId": 12685733587,
+  "name": "Bistro",
+  "category": "food",
+  "subcategory": "restaurant",
+  "lat": 23.0727767,
+  "lon": 76.8574658,
+  "insideBuildingId": "osm-way-1369776493",
+  "menuId": "bistro",
+  "aliases": [
+   "bistro"
+  ],
+  "verification": "community",
+  "sources": [
+   {
+    "label": "OpenStreetMap node 12685733587",
+    "url": "https://www.openstreetmap.org/node/12685733587",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09"
+ },
+ {
+  "id": "osm-node-12685733588",
+  "osmType": "node",
+  "osmId": 12685733588,
+  "name": "AB Dakshin",
+  "category": "food",
+  "subcategory": "restaurant",
+  "lat": 23.0725163,
+  "lon": 76.8571509,
+  "insideBuildingId": "osm-way-1369776493",
+  "menuId": "ab-dakshin",
+  "aliases": [
+   "ab dakshin",
+   "dakshin",
+   "south indian"
+  ],
+  "verification": "community",
+  "sources": [
+   {
+    "label": "OpenStreetMap node 12685733588",
+    "url": "https://www.openstreetmap.org/node/12685733588",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09"
+ },
+ {
+  "id": "osm-node-12685844692",
+  "osmType": "node",
+  "osmId": 12685844692,
+  "name": "Underbelly",
+  "category": "food",
+  "subcategory": "restaurant",
+  "lat": 23.0774371,
+  "lon": 76.8506332,
+  "insideBuildingId": "osm-way-1367916188",
+  "menuId": "underbelly",
+  "aliases": [
+   "underbelly",
+   "ub"
+  ],
+  "verification": "community",
+  "sources": [
+   {
+    "label": "OpenStreetMap node 12685844692",
+    "url": "https://www.openstreetmap.org/node/12685844692",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09"
+ },
+ {
+  "id": "osm-node-12685844693",
+  "osmType": "node",
+  "osmId": 12685844693,
+  "name": "Mayuri (Lab Complex)",
+  "category": "food",
+  "subcategory": "restaurant",
+  "lat": 23.0771584,
+  "lon": 76.8506627,
+  "insideBuildingId": "osm-way-1367916189",
+  "menuId": "mayuri-lab-complex",
+  "aliases": [
+   "mayuri lab",
+   "mayuri"
+  ],
+  "verification": "community",
+  "sources": [
+   {
+    "label": "OpenStreetMap node 12685844693",
+    "url": "https://www.openstreetmap.org/node/12685844693",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09"
+ },
+ {
+  "id": "osm-node-13072831107",
+  "osmType": "node",
+  "osmId": 13072831107,
+  "name": "Basketball Court",
+  "category": "sports",
+  "subcategory": "basketball",
+  "lat": 23.0733328,
+  "lon": 76.8598886,
+  "insideBuildingId": null,
+  "menuId": null,
+  "aliases": [],
+  "verification": "community",
+  "sources": [
+   {
+    "label": "OpenStreetMap node 13072831107",
+    "url": "https://www.openstreetmap.org/node/13072831107",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09"
+ },
+ {
+  "id": "osm-node-13072831108",
+  "osmType": "node",
+  "osmId": 13072831108,
+  "name": "Gym",
+  "category": "sports",
+  "subcategory": "gym",
+  "lat": 23.073287,
+  "lon": 76.8602859,
+  "insideBuildingId": null,
+  "menuId": null,
+  "aliases": [
+   "gym",
+   "fitness centre",
+   "fitness center",
+   "gymnasium"
+  ],
+  "verification": "community",
+  "sources": [
+   {
+    "label": "OpenStreetMap node 13072831108",
+    "url": "https://www.openstreetmap.org/node/13072831108",
+    "verification": "community"
+   }
+  ],
+  "note": null,
+  "updatedAt": "2026-10-09"
+ },
+ {
+  "id": "vitb-main-campus",
+  "osmType": null,
+  "osmId": null,
+  "name": "VIT Bhopal Main Campus",
+  "category": "campus",
+  "subcategory": "campus-entrance",
+  "lat": 23.075509,
+  "lon": 76.849778,
+  "insideBuildingId": null,
+  "menuId": null,
+  "aliases": [
+   "vit bhopal",
+   "vitb",
+   "main gate",
+   "campus entrance",
+   "vit"
+  ],
+  "verification": "community",
+  "sources": [
+   {
+    "label": "OpenStreetMap node 9528736164 (amenity=university)",
+    "url": "https://www.openstreetmap.org/node/9528736164",
+    "verification": "community"
+   }
+  ],
+  "note": "Point on the OSM university node at the Bhopal-Indore highway frontage. The exact pedestrian gate position is unmapped in OSM.",
+  "updatedAt": "2026-10-09"
+ },
+ {
+  "id": "central-library",
+  "osmType": null,
+  "osmId": null,
+  "name": "Central Library",
+  "category": "study",
+  "subcategory": "library",
+  "lat": null,
+  "lon": null,
+  "insideBuildingId": "osm-rel-16248225",
+  "menuId": null,
+  "aliases": [
+   "library",
+   "central library",
+   "reading room",
+   "lib"
+  ],
+  "verification": "community",
+  "sources": [
+   {
+    "label": "VIT Bhopal - Infrastructure (official site)",
+    "url": "https://vitbhopal.ac.in/infrastructure/",
+    "verification": "official"
+   },
+   {
+    "label": "Shiksha - VIT Bhopal infrastructure",
+    "url": "https://www.shiksha.com/university/vit-bhopal-university-54374/infrastructure",
+    "verification": "community"
+   }
+  ],
+  "note": "The official infrastructure page lists a two-floor library. Public sources report it is temporarily housed in the academic block; the exact floor is unverified. Report corrections via feedback.",
+  "updatedAt": "2026-10-09"
+ },
+ {
+  "id": "hostel-atm",
+  "osmType": null,
+  "osmId": null,
+  "name": "ATM (Hostel Zone)",
+  "category": "service",
+  "subcategory": "atm",
+  "lat": 23.07385,
+  "lon": 76.8595,
+  "insideBuildingId": null,
+  "menuId": null,
+  "aliases": [
+   "atm",
+   "cash machine",
+   "bank atm",
+   "bank"
+  ],
+  "verification": "estimated",
+  "sources": [
+   {
+    "label": "VIT Bhopal - Hostel amenities (official site)",
+    "url": "https://vitbhopal.ac.in/hostel-more/",
+    "verification": "official"
+   }
+  ],
+  "note": "Official hostel pages confirm in-house ATM facilities in hostels, but the exact block is not publicly mapped. Position estimated at the hostel cluster centre.",
+  "updatedAt": "2026-10-09"
+ },
+ {
+  "id": "health-center",
+  "osmType": null,
+  "osmId": null,
+  "name": "Health Center",
+  "category": "medical",
+  "subcategory": "clinic",
+  "lat": 23.0739,
+  "lon": 76.8589,
+  "insideBuildingId": null,
+  "menuId": null,
+  "aliases": [
+   "health center",
+   "health centre",
+   "medical",
+   "clinic",
+   "doctor",
+   "dispensary",
+   "medical centre"
+  ],
+  "verification": "estimated",
+  "sources": [
+   {
+    "label": "VIT Bhopal - Infrastructure (official site)",
+    "url": "https://vitbhopal.ac.in/infrastructure/",
+    "verification": "official"
+   }
+  ],
+  "note": "The official infrastructure page lists a Health Center. Its exact campus location is not publicly mapped; position estimated near the hostel/sports zone.",
+  "updatedAt": "2026-10-09"
+ },
+ {
+  "id": "bicycle-parking-main",
+  "osmType": null,
+  "osmId": null,
+  "name": "Bicycle Parking (Academic Zone)",
+  "category": "service",
+  "subcategory": "bicycle-parking",
+  "lat": 23.07462,
+  "lon": 76.85006,
+  "insideBuildingId": null,
+  "menuId": null,
+  "aliases": [
+   "bicycle parking",
+   "cycle stand",
+   "cycle parking",
+   "bike parking"
+  ],
+  "verification": "estimated",
+  "sources": [],
+  "note": "Position estimated beside the Package Collection Area in the academic zone; not yet mapped in OSM.",
+  "updatedAt": "2026-10-09"
+ }
+]

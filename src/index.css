@@ -1,0 +1,99 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  background: #0b0d10;
+  color: #c4cbd6;
+  overscroll-behavior: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Floating glass panels */
+.glass {
+  background: rgba(17, 20, 24, 0.88);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(51, 60, 74, 0.6);
+}
+
+/* 3D scene labels (drei Html wrappers) */
+.map-label-wrapper {
+  pointer-events: none !important;
+}
+
+.map-building-label {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #aeb8c4;
+  background: rgba(13, 16, 20, 0.72);
+  border: 1px solid rgba(70, 82, 98, 0.5);
+  border-radius: 6px;
+  padding: 2px 7px;
+  white-space: nowrap;
+  user-select: none;
+}
+
+.map-building-label.selected {
+  color: #e8f1fc;
+  border-color: rgba(79, 156, 249, 0.8);
+  background: rgba(19, 32, 48, 0.85);
+}
+
+.map-poi-label {
+  font-size: 10px;
+  font-weight: 500;
+  color: #98a2b3;
+  background: rgba(13, 16, 20, 0.66);
+  border: 1px solid rgba(70, 82, 98, 0.4);
+  border-radius: 999px;
+  padding: 1px 7px;
+  white-space: nowrap;
+  user-select: none;
+}
+
+.map-poi-label.selected {
+  color: #e8f1fc;
+  border-color: rgba(79, 156, 249, 0.8);
+}
+
+/* Slim scrollbars */
+.slim-scroll::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+.slim-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+.slim-scroll::-webkit-scrollbar-thumb {
+  background: #333c4a;
+  border-radius: 3px;
+}
+
+/* Native selects on dark UI */
+select.dark-select {
+  background-color: #1c2129;
+  color: #c4cbd6;
+}
+select.dark-select option {
+  background-color: #1c2129;
+  color: #c4cbd6;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

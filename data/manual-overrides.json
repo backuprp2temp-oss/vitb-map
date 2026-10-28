@@ -1,0 +1,687 @@
+{
+  "$comment": "Manually curated overrides & additions for VITmap Bhopal. Merged ON TOP of OpenStreetMap data by scripts/import-osm.mjs. Use `override` to enrich an existing OSM feature (matched by osmType/osmId), or `add` to append places OSM does not map. Curated entries survive upstream re-imports.",
+  "updatedAt": "2026-10-09",
+  "override": [
+    {
+      "$comment": "The 5-level multipolygon relation is VITB Academic Block 1 (OSM node 'VITB Academic Block 1' sits at the same spot).",
+      "match": {
+        "osmType": "relation",
+        "osmId": 16248225
+      },
+      "name": "Academic Block 1 (AB1)",
+      "commonName": "AB1",
+      "category": "academic",
+      "subcategory": "academic-block",
+      "aliases": [
+        "academic block 1",
+        "ab1",
+        "ab-1",
+        "ab one",
+        "academic block",
+        "academic block building"
+      ],
+      "floors": [
+        {
+          "level": 0,
+          "note": "Ground floor - classrooms & block offices"
+        },
+        {
+          "level": 1,
+          "note": "Classrooms"
+        },
+        {
+          "level": 2,
+          "note": "Classrooms"
+        }
+      ],
+      "floorsNote": "5 levels per OSM (building:levels=5). Floor-wise room directory not yet available - admins can add rooms via the admin editor.",
+      "sources": [
+        {
+          "label": "OpenStreetMap relation 16248225",
+          "url": "https://www.openstreetmap.org/relation/16248225",
+          "verification": "community"
+        },
+        {
+          "label": "OpenStreetMap node 11148421056 'VITB Academic Block 1'",
+          "url": "https://www.openstreetmap.org/node/11148421056",
+          "verification": "community"
+        }
+      ]
+    },
+    {
+      "match": {
+        "osmType": "way",
+        "osmId": 1367916190
+      },
+      "name": "Academic Block 2 (AB2)",
+      "commonName": "AB2",
+      "category": "academic",
+      "subcategory": "academic-block",
+      "aliases": [
+        "academic block 2",
+        "ab2",
+        "ab-2",
+        "ab two"
+      ],
+      "floorsNote": "Floor count not verified. Floor-wise room directory not yet available.",
+      "sources": [
+        {
+          "label": "OpenStreetMap way 1367916190",
+          "url": "https://www.openstreetmap.org/way/1367916190",
+          "verification": "community"
+        }
+      ]
+    },
+    {
+      "match": {
+        "osmType": "way",
+        "osmId": 1120857899
+      },
+      "name": "Lab Complex",
+      "category": "academic",
+      "subcategory": "laboratory",
+      "aliases": [
+        "lab complex",
+        "labs",
+        "lab",
+        "computer lab",
+        "cse lab",
+        "it lab",
+        "laboratory"
+      ],
+      "floorsNote": "Floor count not verified. Houses shared laboratories for engineering programmes.",
+      "sources": [
+        {
+          "label": "OpenStreetMap way 1120857899",
+          "url": "https://www.openstreetmap.org/way/1120857899",
+          "verification": "community"
+        }
+      ]
+    },
+    {
+      "match": {
+        "osmType": "way",
+        "osmId": 1367916187
+      },
+      "name": "Architecture Building",
+      "category": "academic",
+      "subcategory": "academic-block",
+      "aliases": [
+        "architecture",
+        "archi block",
+        "architecture block",
+        "b arch"
+      ],
+      "floors": [
+        {
+          "level": 0
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 2
+        }
+      ],
+      "floorsNote": "3 levels per OSM (building:levels=3).",
+      "sources": [
+        {
+          "label": "OpenStreetMap way 1367916187",
+          "url": "https://www.openstreetmap.org/way/1367916187",
+          "verification": "community"
+        }
+      ]
+    },
+    {
+      "match": {
+        "osmType": "way",
+        "osmId": 1120859271
+      },
+      "name": "Multi-purpose Hall",
+      "category": "event",
+      "subcategory": "hall",
+      "aliases": [
+        "mph",
+        "multipurpose hall",
+        "multi purpose hall",
+        "auditorium"
+      ],
+      "sources": [
+        {
+          "label": "OpenStreetMap way 1120859271",
+          "url": "https://www.openstreetmap.org/way/1120859271",
+          "verification": "community"
+        }
+      ]
+    },
+    {
+      "match": {
+        "osmType": "way",
+        "osmId": 1367916191
+      },
+      "name": "Open Air Auditorium",
+      "category": "event",
+      "subcategory": "auditorium",
+      "aliases": [
+        "open air auditorium",
+        "oaa",
+        "amphitheatre",
+        "amphitheater"
+      ],
+      "sources": [
+        {
+          "label": "OpenStreetMap way 1367916191",
+          "url": "https://www.openstreetmap.org/way/1367916191",
+          "verification": "community"
+        }
+      ]
+    },
+    {
+      "$comment": "Hostel building at the west side of the hostel cluster, nearest the academic zone. OSM maps it unnamed.",
+      "match": {
+        "osmType": "way",
+        "osmId": 1367916185
+      },
+      "name": "Boys Hostel Block A",
+      "category": "hostel",
+      "subcategory": "boys-hostel",
+      "aliases": [
+        "boys hostel a",
+        "hostel a",
+        "bh a",
+        "boys hostel"
+      ],
+      "floorsNote": "Block name is an estimate - OSM maps this as an unnamed hostel building. Report the correct block name via feedback.",
+      "sources": [
+        {
+          "label": "OpenStreetMap way 1367916185",
+          "url": "https://www.openstreetmap.org/way/1367916185",
+          "verification": "community"
+        }
+      ]
+    },
+    {
+      "$comment": "University building at the south-east corner of the hostel zone, next to the mess.",
+      "match": {
+        "osmType": "way",
+        "osmId": 1369776496
+      },
+      "name": "Boys Hostel Block B",
+      "category": "hostel",
+      "subcategory": "boys-hostel",
+      "aliases": [
+        "boys hostel b",
+        "hostel b",
+        "bh b"
+      ],
+      "floorsNote": "Block name is an estimate - OSM maps this as an unnamed building beside the mess.",
+      "sources": [
+        {
+          "label": "OpenStreetMap way 1369776496",
+          "url": "https://www.openstreetmap.org/way/1369776496",
+          "verification": "community"
+        }
+      ]
+    },
+    {
+      "$comment": "University building at the Bistro / AB Dakshin food court.",
+      "match": {
+        "osmType": "way",
+        "osmId": 1369776493
+      },
+      "name": "Food Court Building (Bistro & AB Dakshin)",
+      "category": "food",
+      "subcategory": "food-court",
+      "aliases": [
+        "food court",
+        "bistro",
+        "ab dakshin",
+        "dakshin"
+      ],
+      "sources": [
+        {
+          "label": "OpenStreetMap way 1369776493",
+          "url": "https://www.openstreetmap.org/way/1369776493",
+          "verification": "community"
+        }
+      ]
+    },
+    {
+      "match": {
+        "osmType": "way",
+        "osmId": 1239584001
+      },
+      "name": "Faculty House",
+      "category": "residence",
+      "subcategory": "faculty-housing",
+      "aliases": [
+        "faculty house",
+        "faculty quarters",
+        "staff quarters"
+      ],
+      "floors": [
+        {
+          "level": 0
+        },
+        {
+          "level": 1
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpenStreetMap way 1239584001",
+          "url": "https://www.openstreetmap.org/way/1239584001",
+          "verification": "community"
+        }
+      ]
+    },
+    {
+      "match": {
+        "osmType": "way",
+        "osmId": 1367916186
+      },
+      "name": "Chancellor's Residence",
+      "category": "residence",
+      "subcategory": "official-residence",
+      "aliases": [
+        "chancellor residence",
+        "chancellors residence"
+      ],
+      "sources": [
+        {
+          "label": "OpenStreetMap way 1367916186",
+          "url": "https://www.openstreetmap.org/way/1367916186",
+          "verification": "community"
+        }
+      ]
+    },
+    {
+      "match": {
+        "osmType": "node",
+        "osmId": 11515616398
+      },
+      "name": "Boys Hostel Mess (Mayuri)",
+      "category": "food",
+      "subcategory": "mess",
+      "aliases": [
+        "boys hostel mess",
+        "mess",
+        "mayuri mess",
+        "hostel mess",
+        "bhm"
+      ],
+      "menuId": "boys-hostel-mess",
+      "sources": [
+        {
+          "label": "OpenStreetMap node 11515616398",
+          "url": "https://www.openstreetmap.org/node/11515616398",
+          "verification": "community"
+        }
+      ]
+    },
+    {
+      "match": {
+        "osmType": "node",
+        "osmId": 12685733586
+      },
+      "name": "Mayuri Cafe",
+      "category": "food",
+      "subcategory": "cafe",
+      "aliases": [
+        "mayuri",
+        "cafe",
+        "mayuri cafe"
+      ],
+      "menuId": "mayuri-cafe",
+      "sources": [
+        {
+          "label": "OpenStreetMap node 12685733586",
+          "url": "https://www.openstreetmap.org/node/12685733586",
+          "verification": "community"
+        }
+      ]
+    },
+    {
+      "match": {
+        "osmType": "node",
+        "osmId": 12685733587
+      },
+      "name": "Bistro",
+      "category": "food",
+      "subcategory": "restaurant",
+      "aliases": [
+        "bistro"
+      ],
+      "menuId": "bistro",
+      "sources": [
+        {
+          "label": "OpenStreetMap node 12685733587",
+          "url": "https://www.openstreetmap.org/node/12685733587",
+          "verification": "community"
+        }
+      ]
+    },
+    {
+      "match": {
+        "osmType": "node",
+        "osmId": 12685733588
+      },
+      "name": "AB Dakshin",
+      "category": "food",
+      "subcategory": "restaurant",
+      "aliases": [
+        "ab dakshin",
+        "dakshin",
+        "south indian"
+      ],
+      "menuId": "ab-dakshin",
+      "sources": [
+        {
+          "label": "OpenStreetMap node 12685733588",
+          "url": "https://www.openstreetmap.org/node/12685733588",
+          "verification": "community"
+        }
+      ]
+    },
+    {
+      "match": {
+        "osmType": "node",
+        "osmId": 12685844692
+      },
+      "name": "Underbelly",
+      "category": "food",
+      "subcategory": "restaurant",
+      "aliases": [
+        "underbelly",
+        "ub"
+      ],
+      "menuId": "underbelly",
+      "$comment": "Sits beside the Lab Complex per OSM mapping.",
+      "sources": [
+        {
+          "label": "OpenStreetMap node 12685844692",
+          "url": "https://www.openstreetmap.org/node/12685844692",
+          "verification": "community"
+        }
+      ]
+    },
+    {
+      "match": {
+        "osmType": "node",
+        "osmId": 12685844693
+      },
+      "name": "Mayuri (Lab Complex)",
+      "category": "food",
+      "subcategory": "restaurant",
+      "aliases": [
+        "mayuri lab",
+        "mayuri"
+      ],
+      "menuId": "mayuri-lab-complex",
+      "sources": [
+        {
+          "label": "OpenStreetMap node 12685844693",
+          "url": "https://www.openstreetmap.org/node/12685844693",
+          "verification": "community"
+        }
+      ]
+    },
+    {
+      "match": {
+        "osmType": "node",
+        "osmId": 13072831108
+      },
+      "name": "Gym",
+      "category": "sports",
+      "subcategory": "gym",
+      "aliases": [
+        "gym",
+        "fitness centre",
+        "fitness center",
+        "gymnasium"
+      ],
+      "sources": [
+        {
+          "label": "OpenStreetMap node 13072831108",
+          "url": "https://www.openstreetmap.org/node/13072831108",
+          "verification": "community"
+        }
+      ]
+    },
+    {
+      "$comment": "OSM name 'block 8' - hostel-side block numbering per community mapping.",
+      "match": {
+        "osmType": "way",
+        "osmId": 1424605478
+      },
+      "name": "Hostel Block 8",
+      "category": "hostel",
+      "subcategory": "hostel-block",
+      "aliases": [
+        "block 8",
+        "block8",
+        "bh8"
+      ],
+      "sources": [
+        {
+          "label": "OpenStreetMap way 1424605478",
+          "url": "https://www.openstreetmap.org/way/1424605478",
+          "verification": "community"
+        }
+      ]
+    },
+    {
+      "match": {
+        "osmType": "way",
+        "osmId": 1367916184
+      },
+      "name": "Package Collection Area",
+      "category": "service",
+      "subcategory": "parcel",
+      "aliases": [
+        "package collection",
+        "parcel",
+        "courier",
+        "package point",
+        "delivery"
+      ],
+      "sources": [
+        {
+          "label": "OpenStreetMap way 1367916184",
+          "url": "https://www.openstreetmap.org/way/1367916184",
+          "verification": "community"
+        }
+      ]
+    },
+    {
+      "match": {
+        "osmType": "way",
+        "osmId": 1367916188
+      },
+      "name": "Underbelly",
+      "category": "food",
+      "subcategory": "restaurant",
+      "aliases": [
+        "underbelly",
+        "ub",
+        "lab complex restaurant"
+      ],
+      "sources": [
+        {
+          "label": "OpenStreetMap way 1367916188",
+          "url": "https://www.openstreetmap.org/way/1367916188",
+          "verification": "community"
+        }
+      ]
+    },
+    {
+      "match": {
+        "osmType": "way",
+        "osmId": 1367916189
+      },
+      "name": "Mayuri (Lab Complex)",
+      "category": "food",
+      "subcategory": "restaurant",
+      "aliases": [
+        "mayuri lab",
+        "mayuri"
+      ],
+      "sources": [
+        {
+          "label": "OpenStreetMap way 1367916189",
+          "url": "https://www.openstreetmap.org/way/1367916189",
+          "verification": "community"
+        }
+      ]
+    },
+    {
+      "match": {
+        "osmType": "way",
+        "osmId": 1369776499
+      },
+      "name": "Boys Hostel Mess Hall",
+      "category": "food",
+      "subcategory": "mess",
+      "aliases": [
+        "boys hostel mess",
+        "mess",
+        "mayuri mess",
+        "hostel mess",
+        "bhm"
+      ],
+      "menuId": "boys-hostel-mess",
+      "sources": [
+        {
+          "label": "OpenStreetMap way 1369776499",
+          "url": "https://www.openstreetmap.org/way/1369776499",
+          "verification": "community"
+        }
+      ]
+    }
+  ],
+  "add": [
+    {
+      "$comment": "Campus-wide point on the OSM university node (amenity=university, WiFi SSID VITBPL) at the highway frontage - used as the 'VIT Bhopal' home location and default map centre.",
+      "id": "vitb-main-campus",
+      "name": "VIT Bhopal Main Campus",
+      "commonName": "Main Campus",
+      "category": "campus",
+      "subcategory": "campus-entrance",
+      "lat": 23.075509,
+      "lon": 76.849778,
+      "aliases": [
+        "vit bhopal",
+        "vitb",
+        "main gate",
+        "campus entrance",
+        "vit"
+      ],
+      "verification": "community",
+      "note": "Point on the OSM university node at the Bhopal-Indore highway frontage. The exact pedestrian gate position is unmapped in OSM.",
+      "sources": [
+        {
+          "label": "OpenStreetMap node 9528736164 (amenity=university)",
+          "url": "https://www.openstreetmap.org/node/9528736164",
+          "verification": "community"
+        }
+      ]
+    },
+    {
+      "$comment": "Central Library: the official infrastructure page confirms a two-floor library (~706 sq.m); Shiksha reports it is temporarily located in the academic block until a dedicated block is built. Attached to Academic Block 1; exact floor/position unverified.",
+      "id": "central-library",
+      "name": "Central Library",
+      "category": "study",
+      "subcategory": "library",
+      "buildingId": "osm-rel-16248225",
+      "aliases": [
+        "library",
+        "central library",
+        "reading room",
+        "lib"
+      ],
+      "verification": "community",
+      "note": "The official infrastructure page lists a two-floor library. Public sources report it is temporarily housed in the academic block; the exact floor is unverified. Report corrections via feedback.",
+      "sources": [
+        {
+          "label": "VIT Bhopal - Infrastructure (official site)",
+          "url": "https://vitbhopal.ac.in/infrastructure/",
+          "verification": "official"
+        },
+        {
+          "label": "Shiksha - VIT Bhopal infrastructure",
+          "url": "https://www.shiksha.com/university/vit-bhopal-university-54374/infrastructure",
+          "verification": "community"
+        }
+      ]
+    },
+    {
+      "$comment": "In-house ATM: official hostel pages confirm ATM facilities in hostels. Exact block unmapped - estimated position at the hostel cluster (amber 'estimated' badge in UI).",
+      "id": "hostel-atm",
+      "name": "ATM (Hostel Zone)",
+      "category": "service",
+      "subcategory": "atm",
+      "lat": 23.07385,
+      "lon": 76.8595,
+      "aliases": [
+        "atm",
+        "cash machine",
+        "bank atm",
+        "bank"
+      ],
+      "verification": "estimated",
+      "note": "Official hostel pages confirm in-house ATM facilities in hostels, but the exact block is not publicly mapped. Position estimated at the hostel cluster centre.",
+      "sources": [
+        {
+          "label": "VIT Bhopal - Hostel amenities (official site)",
+          "url": "https://vitbhopal.ac.in/hostel-more/",
+          "verification": "official"
+        }
+      ]
+    },
+    {
+      "$comment": "Health Center: listed on the official infrastructure page. Exact location unmapped - estimated position near the hostel/sports zone.",
+      "id": "health-center",
+      "name": "Health Center",
+      "category": "medical",
+      "subcategory": "clinic",
+      "lat": 23.0739,
+      "lon": 76.8589,
+      "aliases": [
+        "health center",
+        "health centre",
+        "medical",
+        "clinic",
+        "doctor",
+        "dispensary",
+        "medical centre"
+      ],
+      "verification": "estimated",
+      "note": "The official infrastructure page lists a Health Center. Its exact campus location is not publicly mapped; position estimated near the hostel/sports zone.",
+      "sources": [
+        {
+          "label": "VIT Bhopal - Infrastructure (official site)",
+          "url": "https://vitbhopal.ac.in/infrastructure/",
+          "verification": "official"
+        }
+      ]
+    },
+    {
+      "$comment": "Bicycle parking estimate: no OSM mapping exists; estimated beside the Package Collection Area. Correct or delete via overrides.",
+      "id": "bicycle-parking-main",
+      "name": "Bicycle Parking (Academic Zone)",
+      "category": "service",
+      "subcategory": "bicycle-parking",
+      "lat": 23.07462,
+      "lon": 76.85006,
+      "aliases": [
+        "bicycle parking",
+        "cycle stand",
+        "cycle parking",
+        "bike parking"
+      ],
+      "verification": "estimated",
+      "note": "Position estimated beside the Package Collection Area in the academic zone; not yet mapped in OSM.",
+      "sources": []
+    }
+  ]
+}
